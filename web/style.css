@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+html,body {
+    margin: 0;
+    padding: 0;
+ 
+}
+
+body { 
+    margin: 40px;
+    box-shadow: 0px 2px 10px rgba(87, 71, 71, 0.25) ;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav {
+    display: flex;
+    gap: 250px;
+}
+
+h1 {
+    font-size: 4.5rem;
+    position: relative;
+    top: -100px;
+}
+
+span {
+    color: blue;
+}
+
+.right {
+    display: flex;
+    padding: 20px;
+    position: relative;
+    left: 400px;
+}
+
+#home {
+    position: relative;
+    left: 100px;
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: large;
+}
+
+#skill {
+    position: relative;
+    left: 150px;
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: large;
+}
+
+#zuri {
+    position: relative;
+    left: 200px;
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: large;
+}
+#intern {
+    position: relative;
+    left: 250px;
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: large;
+}
+
+#training {
+    position: relative;
+    left: 300px;
+    color: black;
+    font-weight: 500;
+    text-decoration: none;
+    font-size: large;
+}
+
+.left {
+    position: relative;
+    left: 170px;
+}
+
+p {
+    font-size: x-large;
+    position: relative;
+    left: -50px;
+}
+
+.text {
+    position: relative;
+    left: 20px;
+}
+
+.wrapper {
+    display: flex;
+    gap: 100px;
+    margin: 100px;
+}
+
+#me {
+    width: 400px;
+    position: relative;
+    right: -200px;
+    top: -70px;
+    border-radius: 60px;
+}
+
+button {
+    padding: 10px;
+    position: relative;
+    top: -100px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}
+
+.icon {
+    display: flex;
+    gap: 20px;
+    position: relative;
+    top: -50px;
+    left: 120px;
+    width: 100px;
+}
+
+#git {
+    width: 30px;
+}
+
+#twit {
+    width: 30px;
+}
+
+#link {
+width: 30px;
+}
